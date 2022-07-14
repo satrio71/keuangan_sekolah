@@ -1,3 +1,3 @@
-halaman login : http://localhost/keuangan_sekolah/backend/
+halaman login : http://localhost/keuangan_sekolah/
 
 username : laela password : bendahara
